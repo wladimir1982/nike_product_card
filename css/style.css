@@ -116,6 +116,7 @@ body {
 .product__button {
     padding: 10px 65px;
     margin-top: 30px;
+    cursor: pointer;
     background-color: #4c525a;
 }
 .product__button:hover,
