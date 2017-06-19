@@ -10,7 +10,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.clearfix {
+.clearfix:after {
     content: '';
     display: table;
     clear: both;
